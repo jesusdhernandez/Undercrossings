@@ -1,0 +1,4 @@
+/* Readable link color for Unity's dark editor skin. */
+:root {
+  --link-color: #7DA0FF;
+}

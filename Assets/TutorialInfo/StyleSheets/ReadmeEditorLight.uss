@@ -1,0 +1,4 @@
+/* Readable link color for Unity's light editor skin. */
+:root {
+  --link-color: #3C28D2;
+}
